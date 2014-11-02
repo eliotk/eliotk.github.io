@@ -1,0 +1,14 @@
+# Site settings
+title: eliotk.net
+email: eliot.k@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The home base for Eliot Kristan
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.eliotk.net" # the base hostname & protocol for your site
+twitter_username: eliotk
+github_username:  eliotk
+
+# Build settings
+markdown: kramdown
+
+comments: true
