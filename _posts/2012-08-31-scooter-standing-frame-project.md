@@ -17,7 +17,9 @@ I&#8217;ve started building a device that can be added to a mobility scooter (us
 
 Here&#8217;s a video I shot of my latest progress:
 
-
+<script type='text/javascript'>  
+window.onload = document.write("<iframe width='560' height='315' marginwidth='0' marginheight='0' scrolling='auto' frameborder='0'  src='http://www.youtube.com/embed/GQhAzbWDV9o?list=UUGkfvDQVRXxKqrY8GlfUimA' ></iframe> "); 
+</script>
 
 In the video is the add-on frame made with 80/20 aluminum extrusion and a linear actuator that sits on top of the original seat base of a mobility scooter. In this case it is an Amiga seat base.
 
