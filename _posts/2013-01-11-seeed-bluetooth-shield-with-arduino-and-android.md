@@ -10,6 +10,10 @@ aktt_tweeted:
 categories:
   - Blog
 ---
+<script type='text/javascript'>  
+window.onload = document.write("<iframe width='560' height='315' marginwidth='0' marginheight='0' scrolling='auto' frameborder='0'  src='http://www.youtube.com/embed/GQhAzbWDV9o?list=UUGkfvDQVRXxKqrY8GlfUimA' ></iframe> "); 
+</script>
+
 I&#8217;m working on a new iteration of the [OpenExo][1] project. The problem is is that the microcontroller and project box is going to be located underneath the device. Running wires to a control is going to be cumbersome and also get in the way of the operation of the device so I thought that communicating wirelessly with the Arduino would be the best approach. And I can use my Android phone (or any Android phone) running an App to as the remote!
 
 I&#8217;m using the Seeed Bluetooth Shield [available here on Amazon][2]. You can also find it sometimes at RadioShack.
