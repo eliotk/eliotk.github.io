@@ -2,7 +2,7 @@
 title: 'Monit logrotate configuration to avoid redundant alerts'
 author: eliot
 layout: post
-permalink: /monit-logrotation
+permalink: /monit-logrotate
 ---
 
 Here's the [default monit logrotation configuration](http://mmonit.com/wiki/Monit/ConfigurationExamples#logrotate):
