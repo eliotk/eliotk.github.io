@@ -47,7 +47,7 @@ I programmed this project in Python and it lives on the Google App Engine. The s
 
 #### [OK Public Web Hosting][8]
 
-*June 2005 &#8211; Present*
+*June 2005 &#8211; June 2013*
 
 I founded OK Public Web Hosting as a business in the summer of 2005. At the time, I had been growing my freelance and contract web development business and it made sense to have my own servers to provide hosting for my clients as opposed to redirecting them elsewhere. I was also able to provide better service as I was the top-level administrator for their web hosting and email services.
 
